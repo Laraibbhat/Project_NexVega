@@ -1,0 +1,19 @@
+
+.search-container {
+    position: relative;
+  }
+  
+  .search-bar {
+    position: absolute;
+    right: 0;
+    width: 300px; 
+    opacity: 1;
+  }
+  
+  .custom-table-container {
+    background: #ffffff; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
